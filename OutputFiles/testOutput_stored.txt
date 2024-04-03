@@ -1,0 +1,2 @@
+1,testPattern,src/patterns/test.pat,false
+2,testPattern2,src/patterns/test2.pat,true
